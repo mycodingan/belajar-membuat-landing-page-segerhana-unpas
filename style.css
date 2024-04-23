@@ -129,6 +129,13 @@ h5{
     text-transform: uppercase;
     border-radius: 40px;
 }
+.footer{
+    margin-top: 100px;
+}
+.footer p{
+    color: #acacac;
+    font-size: 18px;
+}
 
 /* Desktop */
 @media (min-width: 992px) { 
